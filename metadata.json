@@ -1,0 +1,6 @@
+{
+  "name": "AragonArk: Censorship-Resistant Governance Engine & Public DAO Bulletin",
+  "description": "Censorship-resistant Aragon OSx DAO governance engine & public bulletin powered by Arkiv decentralized database on Tiramisu testnet.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
